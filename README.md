@@ -1,5 +1,5 @@
 # Generate-GPX
-![recordGPX](.\image\recordGPX.png)
+![recordGPX](https://github.com/WeiHYDavid/Generate-GPX/blob/main/image/recordGPX.png)
 
 
 
